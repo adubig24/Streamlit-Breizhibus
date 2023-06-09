@@ -1,4 +1,4 @@
-Ce projet utilise Stramlit, une BDD sous Docker ainsi qu'un espace virtuel sous WSL, les bibliothèques pandas, matplotlib et mysql.connector afin d'afficher les horaires des lignes de bus et des statistiques.
+Ce projet utilise Streamlit, une BDD sous Docker ainsi qu'un espace virtuel sous WSL, les bibliothèques pandas, matplotlib et mysql.connector afin d'afficher les horaires des lignes de bus et des statistiques.
 
 Voici le brief du projet : 
 
